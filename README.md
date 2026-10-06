@@ -1,5 +1,7 @@
 # CSharp Katas
 
+![CI](https://github.com/BrunoPa23/csharp-katas/actions/workflows/ci.yml/badge.svg)
+
 Repositorio de katas de algoritmos clasicos resueltos en C#, con tests unitarios en xUnit.
 
 ## Proposito
